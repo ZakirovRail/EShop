@@ -1,2 +1,2 @@
 # EShop
-Repository for project for online store. 
+Repository for project of online store. 
